@@ -108,6 +108,7 @@
 
 .getbtn_title{
     font-family: Nunito;
+    text-decoration: none;
     font-size: 22px;
     font-weight: 700;
     line-height: 60px;
@@ -253,10 +254,45 @@
     left: 67%;
     top: 65%;
 }
+.profileaj{
+    width: 500px;
+    position: absolute;
+    left: 15%;
+    top: 195%;
+}
+.profiledl{
+    width: 420px;
+    position: absolute;
+    left: 18%;
+    top: 215%;
+}
+.profilemc{
+    width: 350px;
+    position: absolute;
+    left: 21%;
+    top: 235%;
+}
+.profilesb{
+    width: 350px;
+    position: absolute;
+    left: 52%;
+    top: 331%;
+}
+.profileas{
+    width: 350px;
+    position: absolute;
+    left: 43%;
+    top: 383%;
+}
 .profilesaved{
     position: absolute;
     left: 75%;
     top: 85%;
+}
+.profilesaved2{
+    position: absolute;
+    left: 15%;
+    top: 370%;
 }
 .profile_pic{
     height: 60px;
@@ -294,6 +330,15 @@
     width: 130px;
     left: 72%;
     top: 35%;
+    border-radius: 25px;
+    position: absolute;
+    background: white;
+}
+.current_upload2{
+    height: 160px;
+    width: 130px;
+    left: 42%;
+    top: 403%;
     border-radius: 25px;
     position: absolute;
     background: white;
@@ -345,7 +390,7 @@
     color: #234CAD;
     background: #F2F6FF;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .secure{
     position: absolute;
@@ -396,4 +441,424 @@
     left: 125%;
     top: 53%;
     right: -600px;
+}
+.msg_box{
+    height: 575px;
+    width: 575px;
+    margin-left: 50px;
+    top: 0px;
+    border-radius: 60px;
+    background: #F2F6FF;
+
+}
+.msg_text{
+    font-family: Nunito;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+    position: absolute;
+    left: 60%;
+    top: 190%;
+    right: 12%;
+}
+.msg_subtext{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+    position: absolute;
+    left: 60%;
+    top: 220%;
+    right: 12%;
+}
+.getbtn2{
+    height: 65px;
+    width: 200px;
+    position: absolute;
+    left: 60%;
+    top: 240%;
+    border-radius: 32.5px;
+    border: 2px solid #234CAD;
+    text-decoration: none;
+}
+.feature2{
+    font-family: Nunito;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.feature2_sub{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-bottom: 100px;
+}
+.box2{
+    height: 575px;
+    width: 83vw;
+    left: 0px;
+    top: 233px;
+    border-radius: 60px;
+    background: #F2F6FF;
+}
+.file_icon2{
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    left: 43%;
+    top: 335%;
+    border-radius: 20px;
+    background-color: white;
+}
+.callendar2{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 43%;
+    top: 352%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.uploading2{
+    height: 100px;
+    width: 300px;
+    position:absolute;
+    left: 64%;
+    top: 352%;
+    border-radius: 20px;
+    background: #FFFFFF;
+}
+.message2{
+    height: 75px;
+    width: 75px;
+    position: absolute;
+    left: 35%;
+    top: 390%;
+    border-radius: 20px;
+    background: white;
+}
+.benefit{
+    margin-top: 50px;
+    font-family: Nunito;
+    font-size: 48px;
+    margin-right: 650px;
+    margin-left: 50px;
+    margin-top: 250px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+}
+.benefit_sub{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 20px;
+    margin-right: 650px;
+    margin-left: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+}
+.getbtn3{
+    height: 65px;
+    width: 200px;
+    position: absolute;
+    left: 12%;
+    top: 505%;
+    border-radius: 32.5px;
+    border: 2px solid #234CAD;
+    text-decoration: none;
+}
+.box3{
+    height: 575px;
+    width: 575px;
+    position: absolute;
+    left: 45.71%;
+    right: 0%;
+    top: 440%;
+    bottom: 0%;
+
+    background: #F2F6FF;
+    border-radius: 60px;
+}
+.callendar3{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 52%;
+    top: 452%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.callendar4{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 52%;
+    top: 485%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.callendar5{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 52%;
+    top: 518%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.callendar6{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 73%;
+    top: 452%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.callendar7{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 73%;
+    top: 485%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.callendar8{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 73%;
+    top: 518%;
+    border-radius: 25px;
+    background: #FFFFFF;
+}
+.pricing{
+    margin-top: 340px;
+    margin-bottom: 20px;
+    font-family: Nunito;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+}
+.pricing_sub{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-bottom: 100px;
+}
+.pricetitle{
+    font-family: Nunito;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-top: 2em;
+}
+.pricenumber{
+    font-family: Nunito;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-top: 1em;
+}
+.pricetime{
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-top: 1em;
+}
+.pricebtn{
+    height: 75px;
+    width: 274px;
+    left: 0px;
+    top: 0px;
+    margin-left: 3.7em;
+    margin-top: 1.5em;
+    border-radius: 37.5px;
+    background: #FFFFFF;
+}
+.btn_second{
+    border: 3px solid #234CAD
+}
+.pricebtntitle{
+    font-family: Nunito;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0px;
+    margin-left: 2.8em;
+    text-decoration: none;
+    color: #234CAD;
+}
+.price1{
+    height: 380px;
+    width: 380px;
+    left: 5%;
+    border-radius: 60px;
+    position: absolute;
+    background: #F2F6FF;
+    top: 595%;
+}
+.price2{
+    height: 380px;
+    width: 380px;
+    left: 37%;
+    top: 595%;
+    border-radius: 60px;
+    border: 3px solid #234CAD;
+    position: absolute;
+}
+.price3{
+    height: 380px;
+    width: 380px;
+    left: 69%;
+    border-radius: 60px;
+    position: absolute;
+    background: #F2F6FF;
+    top: 595%;
+}
+.signup{
+    height: 383px;
+    width: 87vw;
+    border-radius: 60px;
+    position: absolute;
+    background: #F2F6FF;
+    top: 670%;
+    left: 7%;
+}
+.signup_title{
+    font-family: Nunito;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-top: 2em;
+}
+.signup_subtitle{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+    margin-top: 1.5em;
+}
+input{
+    height: 65px;
+    width: 500px;
+    background: #FFFFFF;
+    border-radius: 17.5px;
+    border: #f2f6ff;
+    margin-left: 25em;
+    margin-top: 3em;
+}
+.sendbtn{
+    height: 45px;
+    width: 45px;
+    position: absolute;
+    top: 73%;
+    left: 66%;
+    border-radius: 12.5px;
+    background: #234CAD;
+}
+.arrow{
+    color: white;
+    margin-top: 0.75em;
+    margin-left: 0.4em;
+}
+.footer_title{
+    font-family: Nunito;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+    margin-top: 35em;
+    margin-left: 7%;
+    margin-bottom: 20px;
+}
+.footer_subtitle{
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+    margin-left: 7%;
+    margin-bottom: 100px;
+}
+.secondft{
+    position: absolute;
+    top: 576.5%;
+    left: 29%;
+}
+.secondft_sub{
+    position: absolute;
+    top: 760%;
+    left: 29%;
+    text-decoration: none;
+}
+.thirdft{
+    position: absolute;
+    top: 576.5%;
+    left: 48%;
+}
+.thirdft_sub{
+    position: absolute;
+    top: 760%;
+    left: 48%;
+    text-decoration: none;
+}
+.fourthft{
+    position: absolute;
+    top: 576.5%;
+    left: 66%;
+}
+.fourthft_sub{
+    position: absolute;
+    top: 760%;
+    left: 66%;
+    text-decoration: none;
 }
