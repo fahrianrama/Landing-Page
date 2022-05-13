@@ -1,0 +1,399 @@
+.menubtn{
+    border-radius: 50%; 
+    background-color: #f2f6ff;
+    border-style: solid;
+}
+.navtitle{
+    font-family:Nunito; 
+    color: rgba(35.00000171363354, 76.0000030696392, 173.00000488758087, 1);
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.navbtn_title{
+    font-family:Nunito; 
+    color: rgba(35.00000171363354, 76.0000030696392, 173.00000488758087, 1);
+    font-size: 14px;
+    text-decoration: none;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.btnlogin{
+    height: 35px;
+    width: 100px;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    border: 2px solid #234CAD;
+    border-radius: 25px;
+}
+.btnsign{
+    height: 35px;
+    width: 100px;
+    left: 0px;
+    top: 0px;
+    background-color: #f2f6ff;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+.navbar-nav,
+.mr-auto {
+    flex: 1;
+    margin: auto !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner{
+    margin-top: 75px;
+    height: 575px;
+    width: 83vw;
+    left: 0px;
+    top: 0px;
+    border-radius: 60px;
+    left: 0%;
+    right: 9.82%;
+    top: 0%;
+    bottom: 5.89%;
+
+    background: #F2F6FF;
+    border-radius: 60px;
+}
+.main_title{  
+    position: absolute;
+    left: 14%;
+    right: 65.45%;
+    top: 35%;
+    bottom: 54.83%;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+
+    /* or 117% */
+
+    color: #234CAD;
+}
+.main_sub{
+    position: absolute;
+    left: 14%;
+    right: 60.62%;
+    top: 64.26%;
+    bottom: 42.23%;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    /* or 162% */
+
+    color: #234CAD;
+}
+
+.getbtn{
+    height: 65px;
+    width: 200px;
+    position: absolute;
+    left: 14%;
+    top: 80%;
+    border-radius: 32.5px;
+    border: 2px solid #234CAD;
+    text-decoration: none;
+}
+
+.getbtn_title{
+    font-family: Nunito;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-left: 1.5em;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #234CAD;
+}
+
+.file_icon{
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    left: 47%;
+    top: 30%;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.file_icon_content{
+    margin-left: 1em;
+    margin-top: 1.3em;
+}
+
+.uploading{
+    height: 100px;
+    width: 300px;
+    position:absolute;
+    left: 47%;
+    top: 45%;
+    border-radius: 20px;
+    background: #FFFFFF;
+}
+.uploading_content{
+    margin-left: 1em;
+    margin-top: 1.7em;
+}
+.uploading_text{
+    font-family: Nunito;
+    font-size: 16px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+}
+.uploading_subtext{
+    font-family: Nunito;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    color: #234CAD;
+}
+.callendar{
+    height: 160px;
+    width: 250px;
+    position: absolute;
+    left: 47%;
+    top: 65%;
+    border-radius: 25px;
+    background: white;
+}
+.callendar_content{
+    margin-left: 1.2em;
+    margin-top: 1.6em;
+}
+.callendar_title{
+    font-family: Nunito;
+    font-size: 16px;
+    position: absolute;
+    left: 30%;
+    top: 15%;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+}
+.callendar_sub{
+    font-family: Nunito;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    color: #234CAD;
+}
+.times{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: #F2F6FF;
+    border: 2px solid #FFFFFF
+}
+.timesjm{
+    left: 7%;
+    top: 70%;
+    position: absolute;
+}
+.timesac{
+    left: 21%;
+    top: 70%;
+    position: absolute;
+}
+.timeskd{
+    left: 35%;
+    top: 70%;
+    position: absolute;
+}
+.timesmore{
+    left: 49%;
+    top: 70%;
+    position: absolute;
+}
+.timestext{
+    font-family: Nunito;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+    margin-left: 1.2em;
+    margin-top:1.2em;
+}
+.profile{
+    height: 100px;
+    width: 350px;
+    border-radius: 25px;
+    background: white;
+}
+.profilejs{
+    position: absolute;
+    left: 47%;
+    top: 95%;
+}
+.profileab{
+    position: absolute;
+    left: 67%;
+    top: 65%;
+}
+.profilesaved{
+    position: absolute;
+    left: 75%;
+    top: 85%;
+}
+.profile_pic{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    border-radius: 30px;
+    background-color: #F2F6FF;
+}
+.user{
+    font-family: Nunito;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+    position: absolute;
+    left: 37%;
+    top: 29%;
+}
+.profile_time{
+    font-family: Nunito;
+    font-size: 10px;
+    line-height: 13px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    left: 80%;
+    top: 20%;
+    color: #234CAD;
+}
+.current_upload{
+    height: 160px;
+    width: 130px;
+    left: 72%;
+    top: 35%;
+    border-radius: 25px;
+    position: absolute;
+    background: white;
+}
+.current_upload_content{
+    height: 50px;
+    width: 50px;
+    left: 1015px;
+    top: 115px;
+    border-radius: 50%;
+    background: #F2F6FF;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+.current_upload_icon{
+    margin-left: 0.3em;
+    margin-top: 0.3em;
+}
+.current_upload_text{
+    font-family: Nunito;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    left: 22%;
+    top:70%;
+    color: #234CAD;
+}
+.message{
+    height: 75px;
+    width: 75px;
+    position: absolute;
+    left: 75%;
+    top: 110%;
+    border-radius: 20px;
+    background: white;
+}
+.message_icon{
+    margin-left: 1.6em;
+    margin-top: 1.6em;
+    color: #234CAD;
+}
+.feature{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    color: #234CAD;
+    background: #F2F6FF;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.secure{
+    position: absolute;
+    left: 55%;
+    top: 118%;
+}
+.cloud_icon{
+    margin-left: 0.6em;
+    margin-top: 0.6em;
+}
+.secure_icon{
+    margin-top: 0.7em;
+    margin-left: 0.75em;
+}
+.feature_text{
+    font-family: Nunito;
+    font-size: 28px;
+    line-height: 49px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+}
+.feature_subtext{
+    font-family: Nunito;
+    font-size: 21px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #234CAD;
+}
+.cloud_text{
+    position: absolute;
+    left: 18%;
+    top: 136%;
+}
+.cloud_subtext{
+    position: absolute;
+    left: 18%;
+    top: 143%;
+}
+.secure_text{
+    position: absolute;
+    left: 125%;
+    top: 10%;
+}
+.secure_subtext{
+    position: absolute;
+    left: 125%;
+    top: 53%;
+    right: -600px;
+}
