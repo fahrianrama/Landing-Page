@@ -83,7 +83,6 @@
         font-size: 1.6vw;
         font-weight: 700;
         line-height: 4.3vw;
-        margin-left: 1.5em;
         letter-spacing: 0px;
         text-align: center;
         color: #234CAD;
@@ -895,21 +894,17 @@
         line-height: 20px;
     }
     .getbtn{
-        line-height: 3.3em;
         height: 50px;
         width: 120px;
         border-radius: 30px;
         border: 2px solid #234CAD;
         text-decoration: none;
     }
-    
     .getbtn_title{
         font-family: Nunito;
         text-decoration: none;
         font-size: 15px;
         font-weight: 700;
-        line-height: 45px;
-        margin-left: 1em;
         letter-spacing: 0px;
         text-align: center;
         color: #234CAD;
