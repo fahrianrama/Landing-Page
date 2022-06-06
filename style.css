@@ -873,7 +873,7 @@
     .banner{
         border-radius: 30px;
         background: #F2F6FF;
-        margin-top: 6em;
+        margin-top: 3em;
     }
     .main_title{
         margin-top: 0.6em;
@@ -929,46 +929,43 @@
     
     .uploading{
         height: 70px;
-        width: 300px;
+        width: 150px;
         border-radius: 20px;
         background: #FFFFFF;
     }
     .uploading_content{
         margin-left: 0.6em;
-        margin-top: 1.2em;
     }
     .uploading_text{
         font-family: Nunito;
-        font-size: 16px;
+        font-size: 12px;
         letter-spacing: 0px;
         text-align: left;
         color: #234CAD;
     }
     .uploading_subtext{
         font-family: Nunito;
-        font-size: 10px;
+        font-size: 8px;
         letter-spacing: 0px;
         text-align: left;
         color: #234CAD;
     }
     .callendar{
-        height: 160px;
-        width: 250px;
+        height: 120px;
+        width: 160px;
         border-radius: 25px;
         background: white;
     }
     .callendar_content{
-        margin-left: 1.2em;
-        margin-top: 1.6em;
+        margin-left: 0.8em;
+        margin-top: 1.2em;
+        margin-right: 0.6em;
     }
     .callendar_title{
         font-family: Nunito;
         font-size: 16px;
-        position: absolute;
-        left: 30%;
-        top: 15%;
+        margin-top: 1em;
         letter-spacing: 0px;
-        text-align: left;
         color: #234CAD;
     }
     .callendar_sub{
@@ -977,9 +974,6 @@
         line-height: 21px;
         letter-spacing: 0px;
         text-align: left;
-        position: absolute;
-        left: 30%;
-        top: 30%;
         color: #234CAD;
     }
     .times{
@@ -988,26 +982,6 @@
         border-radius: 50%;
         background: #F2F6FF;
         border: 2px solid #FFFFFF
-    }
-    .timesjm{
-        left: 7%;
-        top: 70%;
-        position: absolute;
-    }
-    .timesac{
-        left: 21%;
-        top: 70%;
-        position: absolute;
-    }
-    .timeskd{
-        left: 35%;
-        top: 70%;
-        position: absolute;
-    }
-    .timesmore{
-        left: 49%;
-        top: 70%;
-        position: absolute;
     }
     .timestext{
         font-family: Nunito;
@@ -1020,20 +994,11 @@
         margin-top:1.2em;
     }
     .profile{
-        height: 100px;
-        width: 350px;
-        border-radius: 25px;
+        height: 50px;
+        width: 240px;
+        border-radius: 10px;
         background: white;
-    }
-    .profilejs{
-        position: absolute;
-        left: 47%;
-        top: 95%;
-    }
-    .profileab{
-        position: absolute;
-        left: 67%;
-        top: 65%;
+        margin-top: 1em;
     }
     .profileaj{
         width: 500px;
@@ -1076,43 +1041,30 @@
         top: 370%;
     }
     .profile_pic{
-        height: 60px;
-        width: 60px;
-        position: absolute;
-        left: 5%;
-        top: 20%;
+        height: 40px;
+        width: 40px;
         border-radius: 30px;
         background-color: #F2F6FF;
     }
     .user{
         font-family: Nunito;
-        font-size: 18px;
-        line-height: 24px;
+        font-size: 12px;
         letter-spacing: 0px;
         text-align: left;
         color: #234CAD;
-        position: absolute;
-        left: 37%;
-        top: 29%;
     }
     .profile_time{
         font-family: Nunito;
-        font-size: 10px;
-        line-height: 13px;
+        font-size: 8px;
+        line-height: 10px;
         letter-spacing: 0px;
         text-align: left;
-        position: absolute;
-        left: 80%;
-        top: 20%;
         color: #234CAD;
     }
     .current_upload{
-        height: 160px;
-        width: 130px;
-        left: 72%;
-        top: 35%;
+        height: 90px;
+        width: 90px;
         border-radius: 25px;
-        position: absolute;
         background: white;
     }
     .current_upload2{
@@ -1127,13 +1079,8 @@
     .current_upload_content{
         height: 50px;
         width: 50px;
-        left: 1015px;
-        top: 115px;
         border-radius: 50%;
         background: #F2F6FF;
-        position: absolute;
-        left: 30%;
-        top: 30%;
     }
     .current_upload_icon{
         margin-left: 0.3em;
@@ -1145,9 +1092,6 @@
         line-height: 24px;
         letter-spacing: 0px;
         text-align: left;
-        position: absolute;
-        left: 22%;
-        top:70%;
         color: #234CAD;
     }
     .message{
