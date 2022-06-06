@@ -877,8 +877,8 @@
     }
     .main_title{
         margin-top: 0.6em;
-        font-size: 30px;
-        line-height: 45px;
+        font-size: 40px;
+        line-height: 50px;
         font-family: 'Nunito';
         font-style: normal;
         font-weight: 700;
@@ -902,6 +902,7 @@
         border-radius: 30px;
         border: 2px solid #234CAD;
         text-decoration: none;
+        margin-top: 2em;
     }
     .getbtn_title{
         font-family: Nunito;
@@ -914,20 +915,21 @@
     }
     
     .file_icon{
-        height: 40px;
-        width: 40px;
+        height: 60px;
+        width: 60px;
         border-radius: 20px;
         background-color: white;
+        margin-bottom: 1em;
     }
     
     .file_icon_content{
-        margin-left: 0.6em;
-        margin-top: 1em;
+        margin-left: 0.7em;
+        margin-top: 1.1em;
     }
     
     .uploading{
-        height: 50px;
-        width: 200px;
+        height: 70px;
+        width: 300px;
         border-radius: 20px;
         background: #FFFFFF;
     }
@@ -937,7 +939,7 @@
     }
     .uploading_text{
         font-family: Nunito;
-        font-size: 14px;
+        font-size: 16px;
         letter-spacing: 0px;
         text-align: left;
         color: #234CAD;
@@ -952,9 +954,6 @@
     .callendar{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 47%;
-        top: 65%;
         border-radius: 25px;
         background: white;
     }
