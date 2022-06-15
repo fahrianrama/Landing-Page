@@ -1186,13 +1186,8 @@
         text-decoration: none;
     }
     .box3{
-        height: 575px;
+        height: 480px;
         width: 575px;
-        position: absolute;
-        left: 45.71%;
-        right: 0%;
-        top: 440%;
-        bottom: 0%;
     
         background: #F2F6FF;
         border-radius: 60px;
@@ -1200,60 +1195,41 @@
     .callendar3{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 52%;
-        top: 452%;
         border-radius: 25px;
         background: #FFFFFF;
     }
     .callendar4{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 52%;
-        top: 485%;
         border-radius: 25px;
         background: #FFFFFF;
     }
     .callendar5{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 52%;
-        top: 518%;
         border-radius: 25px;
         background: #FFFFFF;
     }
     .callendar6{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 73%;
-        top: 452%;
         border-radius: 25px;
         background: #FFFFFF;
     }
     .callendar7{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 73%;
-        top: 485%;
         border-radius: 25px;
         background: #FFFFFF;
     }
     .callendar8{
         height: 160px;
         width: 250px;
-        position: absolute;
-        left: 73%;
-        top: 518%;
         border-radius: 25px;
         background: #FFFFFF;
     }
     .pricing{
-        margin-top: 340px;
-        margin-bottom: 20px;
+        margin-top: 100px;
         font-family: Nunito;
         font-size: 48px;
         font-weight: 700;
@@ -1328,38 +1304,27 @@
     .price1{
         height: 380px;
         width: 380px;
-        left: 5%;
         border-radius: 60px;
-        position: absolute;
         background: #F2F6FF;
-        top: 595%;
     }
     .price2{
         height: 380px;
         width: 380px;
-        left: 37%;
-        top: 595%;
         border-radius: 60px;
         border: 3px solid #234CAD;
-        position: absolute;
     }
     .price3{
         height: 380px;
         width: 380px;
-        left: 69%;
         border-radius: 60px;
-        position: absolute;
         background: #F2F6FF;
-        top: 595%;
     }
     .signup{
         height: 383px;
         width: 87vw;
         border-radius: 60px;
-        position: absolute;
         background: #F2F6FF;
-        top: 670%;
-        left: 7%;
+        margin-top: 100px;
     }
     .signup_title{
         font-family: Nunito;
@@ -1387,15 +1352,10 @@
         background: #FFFFFF;
         border-radius: 17.5px;
         border: #f2f6ff;
-        margin-left: 25em;
-        margin-top: 3em;
     }
     .sendbtn{
         height: 45px;
         width: 45px;
-        position: absolute;
-        top: 73%;
-        left: 66%;
         border-radius: 12.5px;
         background: #234CAD;
     }
@@ -1410,11 +1370,7 @@
         font-weight: 700;
         line-height: 49px;
         letter-spacing: 0px;
-        text-align: left;
         color: #234CAD;
-        margin-top: 35em;
-        margin-left: 7%;
-        margin-bottom: 20px;
     }
     .footer_subtitle{
         font-family: Nunito;
@@ -1424,40 +1380,14 @@
         letter-spacing: 0px;
         text-align: left;
         color: #234CAD;
-        margin-left: 7%;
-        margin-bottom: 100px;
-    }
-    .secondft{
-        position: absolute;
-        top: 576.5%;
-        left: 29%;
     }
     .secondft_sub{
-        position: absolute;
-        top: 760%;
-        left: 29%;
         text-decoration: none;
-    }
-    .thirdft{
-        position: absolute;
-        top: 576.5%;
-        left: 48%;
     }
     .thirdft_sub{
-        position: absolute;
-        top: 760%;
-        left: 48%;
         text-decoration: none;
     }
-    .fourthft{
-        position: absolute;
-        top: 576.5%;
-        left: 66%;
-    }
     .fourthft_sub{
-        position: absolute;
-        top: 760%;
-        left: 66%;
         text-decoration: none;
     }
 }
